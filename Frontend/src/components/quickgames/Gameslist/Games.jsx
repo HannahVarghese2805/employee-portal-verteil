@@ -57,7 +57,7 @@ const Games = () => {
           </div>
         ))}
       </div>
-
+      
       <h2 className="scoreboard-title">Top Performers</h2>
       <div className="scoreboard-wrapper">
         <div className="scoreboard fade-in">
